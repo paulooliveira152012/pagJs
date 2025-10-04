@@ -12,3 +12,5 @@ window --> ren "nome_atual" "nome_antigo"
 *** remover um arquivo
 mac --> rm "nome_do_arquivo" "nome_do_arquivo"
 windows --> del "nome_do_arquivo", "nome_do_arquivo"
+
+teste
