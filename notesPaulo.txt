@@ -1,0 +1,14 @@
+=================
+Atalhos no teclado:
+
+*** criar novo arquivo:
+mac --> touch "nome_do_arquivo"
+windows --> New-Item "arquivo1", "arquivo2"
+
+*** editar nome do arquivo
+mac --> mv "nome_atual" "nome_novo"
+window --> ren "nome_atual" "nome_antigo"
+
+*** remover um arquivo
+mac --> rm "nome_do_arquivo" "nome_do_arquivo"
+windows --> del "nome_do_arquivo", "nome_do_arquivo"
